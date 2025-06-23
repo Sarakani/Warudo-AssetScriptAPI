@@ -6,16 +6,16 @@ You can Inject those names in the Train Script via this Plugin.
 
 # New Nodes:
 
-## - Call Environment Method
+## Call Environment Method
 Calls a Method with optional Parameter in selected GameObject
 
-## - Call Character Method
+## Call Character Method
 Calls a Method with optional Parameter in selected GameObject on selected Character Asset
 
-## - Call Prop Method
+## Call Prop Method
 Calls a Method with optional Parameter in selected GameObject on selected Prop Asset
 
-- Reload Scripts
+## Reload Scripts
 Helper Node to reload all Scripts of all Objects (Needed if you change the Environment, Character or Prop in an Asset)
 
 # Hope this Plugin Helps you being creative! :3
