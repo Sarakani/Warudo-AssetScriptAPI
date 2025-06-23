@@ -1,0 +1,30 @@
+{
+    "en": {
+        "ASSET_SCRIPT_API": "Asset Script Api",
+        "ASSET_SCRIPT_API_DESCRIPTION": "Plugin to Interact with Asset Scripts via Nodes.",
+        "ASSET_SCRIPT_API_CATEGORY": "Asset Script API",
+        "CALL_ENVIRONMENT_METHOD": "Call Environment Method",
+        "CALL_CHARACTER_METHOD": "Call Character Method",
+        "CALL_PROP_METHOD": "Call Prop Method",
+        "RELOAD_SCRIPTS": "Reload Scripts",
+        "API_SCRIPT": "Affected Script",
+        "API_METHOD": "Called Method",
+        "API_PARAMETER": "Method Parameter",
+        "API_CHARACTER_ASSET": "Character Asset",
+        "API_PROP_ASSET": "Gegenstand Asset"
+    },
+    "de": {
+        "ASSET_SCRIPT_API": "Asset Script Api",
+        "ASSET_SCRIPT_API_DESCRIPTION": "Ein Plugin mit dem man mit Scripts auf Unity Objecten per Blueprints interagieren kann",
+        "ASSET_SCRIPT_API_CATEGORY": "Asset Script API",
+        "CALL_ENVIRONMENT_METHOD": "Sende Umgebungs Methode",
+        "CALL_CHARACTER_METHOD": "Sende Charakter Methode",
+        "CALL_PROP_METHOD": "Sende Gegenstands Methode",
+        "RELOAD_SCRIPTS": "Scripts Neuladen",
+        "API_SCRIPT": "Betroffenes Script",
+        "API_METHOD": "Betroffenes Methode",
+        "API_PARAMETER": "Methoden Parameter",
+        "API_CHARACTER_ASSET": "Charakter Asset",
+        "API_PROP_ASSET": "Gegenstand Asset"
+    }
+}
